@@ -3,39 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Termos de Serviço e Política de Privacidade – DEDSEC</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #0d0d0d;
-      color: #f2f2f2;
-      line-height: 1.6;
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2, h3 {
-      color: #00ffcc;
-    }
-    h1 {
-      font-size: 2.2rem;
-      border-bottom: 2px solid #00ffcc;
-      padding-bottom: 0.5rem;
-    }
-    h2 {
-      margin-top: 2rem;
-      font-size: 1.5rem;
-    }
-    ul {
-      margin-left: 1.5rem;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-    .highlight {
-      color: #ff4d4d;
-    }
-  </style>
+
 </head>
 <body>
   <h1>📜 Termos de Serviço – DEDSEC</h1>
