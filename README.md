@@ -56,4 +56,68 @@ Para dúvidas, sugestões ou solicitações relacionadas aos seus dados, entre e
 📧 [Seu email ou link de suporte]
 🌐 [Link do site ou servidor de suporte, se houver]
 
+
+🔒 Política de Privacidade – DEDSEC BOT
+Última atualização: 17 de junho de 2025
+
+Esta Política de Privacidade descreve como o DEDSEC BOT coleta, utiliza e protege as informações dos usuários durante o uso no Discord. Ao utilizar o DEDSEC, você concorda com as práticas descritas abaixo.
+
+1. Dados Coletados
+O DEDSEC coleta apenas os dados necessários para garantir o funcionamento correto de seus recursos. Os tipos de dados coletados incluem:
+
+IDs de usuários, servidores e canais
+
+Comandos executados e parâmetros usados
+
+Configurações personalizadas do servidor (como prefixo de comandos, funções, permissões, etc.)
+
+Mensagens relacionadas à execução de comandos (nunca mensagens privadas nem conteúdo fora do escopo do bot)
+
+❗ O DEDSEC não acessa, armazena ou compartilha mensagens privadas dos usuários.
+
+2. Finalidade do Uso dos Dados
+Os dados coletados são utilizados exclusivamente para:
+
+Executar corretamente os comandos do bot;
+
+Melhorar funcionalidades e experiência do usuário;
+
+Gerenciar configurações específicas de cada servidor;
+
+Monitorar e prevenir uso indevido ou abusivo.
+
+3. Armazenamento e Segurança
+Os dados são armazenados de forma segura em servidores protegidos.
+
+São adotadas medidas técnicas e organizacionais para proteger os dados contra acesso não autorizado, alteração ou destruição.
+
+Os dados não são vendidos, alugados ou compartilhados com terceiros.
+
+4. Compartilhamento de Dados
+DEDSEC não compartilha dados com terceiros, exceto em situações exigidas por lei ou ordem judicial válida.
+
+5. Retenção e Exclusão de Dados
+Os dados são mantidos apenas enquanto forem necessários para o funcionamento do bot.
+
+Caso o bot seja removido de um servidor, as informações específicas daquele servidor poderão ser excluídas automaticamente após um período de retenção.
+
+Você pode solicitar a exclusão de dados específicos entrando em contato com o desenvolvedor do bot.
+
+6. Direitos do Usuário
+Você tem o direito de:
+
+Solicitar informações sobre os dados armazenados sobre você;
+
+Pedir a exclusão de dados pessoais;
+
+Revogar o consentimento para o uso de dados (o que pode limitar o funcionamento do bot).
+
+7. Menores de Idade
+O bot deve ser utilizado apenas por pessoas com 13 anos ou mais, conforme a Política do Discord. Não coletamos intencionalmente dados de menores.
+
+8. Alterações nesta Política
+Esta Política de Privacidade pode ser atualizada periodicamente. Se mudanças significativas forem feitas, uma notificação poderá ser publicada no servidor de suporte ou no site oficial (se aplicável).
+
+
+
 © 2025 – DEDSEC Bot. Todos os direitos reservados.
