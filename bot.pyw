@@ -1,8 +1,6 @@
 import discord
 from discord import app_commands
 
-
-
 class MeuPrimeiroBot(discord.Client):
 
     def __init__(self):
@@ -29,4 +27,4 @@ async def bemvindo(interaction:discord.Interaction):
 async def bemvindo(interaction:discord.Interaction):
     await interaction.response.send_message(f'Finalmente, estou online {interaction.user.mention}!')
 
-bot.run('MTA3OTYwNzU0MzUzOTcwNzk3NQ.GRJmdm.__nLi4JcoNRIV7imS8oHGc-gbGIP6Mi4m-kyJ0')
+bot.run('adicione seu TOKEN')
